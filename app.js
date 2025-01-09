@@ -37,6 +37,7 @@ function makeGuess(guess) {
     } else {
         
         resultMessage.textContent = `Incorrect, GAME OVER! The next card was ${nextCard}.`;
+        scoreElement.textContent = `The Final Score is ${score}`; 
         playAgainButton.style.display = 'inline-block';
         gameOver = true
     }
@@ -46,7 +47,7 @@ function makeGuess(guess) {
     currentCard = nextCard;
     
     // Update score and card display
-    scoreElement.textContent = `Score: ${score}`;
+    // scoreElement.textContent = `Score: ${score}`; 
     updateCardDisplay();
 }
 
