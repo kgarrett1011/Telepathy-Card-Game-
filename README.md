@@ -50,7 +50,7 @@ Technologies Used:
 
 <details open>
   <summary> How to Play </summary>
-    1. A number will be displayed on a card.
+    1.  A number will be displayed on a card.
     
     2.  The player has a choice between Guess Higher or Guess Lower.  The player will click on which option they think the next card number will be.
     
