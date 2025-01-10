@@ -31,8 +31,10 @@
     src="Screenshot 2025-01-10 at 12.13.44 AM.png"
   /> |
 
-    ## :computer: Technologies Used
-  A screenshot of your app's landing page and any other screenshots of interest.
+Technologies Used
+HTML: For the structure of the game, including buttons, score display, and message areas.
+CSS: For styling the game interface, creating a visually appealing and responsive design.
+JavaScript: For game logic, including generating random cards, checking guesses, updating the score, and controlling the flow of the game.
 
  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
