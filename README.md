@@ -65,5 +65,5 @@ Technologies Used:
 
 ## :satellite: Upcoming Features
 
-- [:star:] Guess Streaks: when cards are guessed correctly a certain amount of times a win streak will appear and more cards will be added.  For example, you originally start with 13 cards, after the first guess streak of 3 the deck will increase from 13 to 20 cards making it more challenging.  After a 7 guess streak is achieved the deck goes from 20 cards to 30 cards making it more challenging to the player. The more guess streaks the player achieves the more cards are added to make it more challenging. 
+[:star:] Guess Streaks: when cards are guessed correctly a certain amount of times a win streak will appear and more cards will be added.  For example, you originally start with 13 cards, after the first guess streak of 3 the deck will increase from 13 to 20 cards making it more challenging.  After a 7 guess streak is achieved the deck goes from 20 cards to 30 cards making it more challenging to the player. The more guess streaks the player achieves the more cards are added to make it more challenging. 
 
