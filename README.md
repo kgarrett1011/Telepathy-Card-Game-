@@ -51,11 +51,16 @@ Technologies Used:
 <details open>
   <summary> How to Play </summary>
     1. A number will be displayed on a card.
-    2. The player has a choice between Guess Higher or Guess Lower.  The player will click on which option they think the next card number will be.
-    3. Once the player has clicked their choice, the computer will generate the next card.
-    4. If the player chooses correctly, they will be prompted to choose again and will start accumulating points based on the numerical value of the card.  (a card with 7 on it is worth 7 points, a card with 5 on it is worth 5 points, etc).
-    5. As long as the player keeps choosing correctly, the computer will keep prompting them to guess again while adding points.
-    6. The game is over when the player guesses incorrectly.  A final score is shown and they have the option to play again.
+    
+    2.  The player has a choice between Guess Higher or Guess Lower.  The player will click on which option they think the next card number will be.
+    
+    3.  Once the player has clicked their choice, the computer will generate the next card.
+    
+    4.  If the player chooses correctly, they will be prompted to choose again and will start accumulating points based on the numerical value of the card.  (a card with 7 on it is worth 7 points, a card with 5 on it is worth 5 points, etc).
+    
+    5.  As long as the player keeps choosing correctly, the computer will keep prompting them to guess again while adding points.
+    
+    6.  The game is over when the player guesses incorrectly.  A final score is shown and they have the option to play again.
 </details>
 
 <details open>
