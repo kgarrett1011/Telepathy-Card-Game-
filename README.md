@@ -12,7 +12,6 @@
 
   ##### Kanisha Garrett 
 
-  [![LinkedIn Badge](https://img.shields.io/badge/-@amarpan-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/amarpan/)
 
   ## Description
   This is a guessing game where a card is displayed with a number on it and the player must  guess if the next card will be higher or lower then the current card. Tha game continues as long as the player guesses correctly. The game is over when the player guesses incorrectly.  A final score will be shown and the player is able to play again and beat their previous score. 
