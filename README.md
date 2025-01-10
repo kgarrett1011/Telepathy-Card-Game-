@@ -18,14 +18,11 @@
 </div>
 
   ##  Screenshots 
-
-  |   Description | Screenshot | 
-  |:-------------:| -----------|
-  | <h3> Game Start</h3> | <img
-    src="/Users/kanishagarrett/code/ga/projects/Telepathy-Card-Game-/Screenshot 2025-01-10 at 12.10.50 AM.png"
+| <h3> Game Start</h3> | <img
+    ![alt text](<Screenshot 2025-01-10 at 12.10.50 AM.png>)
   /> |
-  | <h3> Correct Guess</h3> | <img
-  src="Screenshot 2025-01-10 at 12.12.36 AM.png/
+  | <h3> Correct Guess</h3> | <img![alt text](<Screenshot 2025-01-10 at 12.12.36 AM.png>)
+  
   /> |
   <h3> Incorrect Guess </h3> | <img
-    src="/Screenshot 2025-01-10 at 12.13.44 AM.png
+    ![alt text](<Screenshot 2025-01-10 at 12.13.44 AM.png>)
