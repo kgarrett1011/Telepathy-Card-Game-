@@ -63,16 +63,7 @@ Technologies Used:
     6.  The game is over when the player guesses incorrectly.  A final score is shown and they have the option to play again.
 </details>
 
-<details open>
-  <summary> Telepathy Guessing Game </summary>
-  <a href="https://trello.com/b/x4ViComX/meet-your-classmates-project-4"
-    > https://github.com/kgarrett1011/Telepathy-Card-Game-/blob/main/index.html </a
-  >
-</details>
+## :satellite: Upcoming Features
 
-<details open>
-  <summary> Deployed Link (Heroku) </summary>
-  <a href="https://github.com/kgarrett1011/Telepathy-Card-Game-/blob/main/index.html/"
-    > hhttps://github.com/kgarrett1011/Telepathy-Card-Game-/blob/main/index.html/ </a
-  >
-</details>
+- [:star:] Guess Streaks: when cards are guessed correctly a certain amount of times a win streak will appear and more cards will be added.  For example, you originally start with 13 cards, after the first guess streak of 3 the deck will increase from 13 to 20 cards making it more challenging.  After a 7 guess streak is achieved the deck goes from 20 cards to 30 cards making it more challenging to the player. The more guess streaks the player achieves the more cards are added to make it more challenging. 
+
